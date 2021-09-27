@@ -15,5 +15,8 @@ You just need to download the project and drag the .html file and drop it into a
 ## Support
 For support you can reach out to me via email.
 
+## Future Improvements
+In future versions of this project a button will be added to increase or decrease the movement speed of the created pacmen.
+
 ## License information
 This project is licensed through MIT XPRO Web Development with JavaScript program.
