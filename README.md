@@ -1,7 +1,7 @@
 # PacmenExcercise
 ![image](https://user-images.githubusercontent.com/56746958/134919076-855153ba-5ec8-41ce-addc-0c3898bd565a.png)
 
-PacMen Excercise Repository. This excercise was the solution of a tasks for the MIT xPRO program: Web Development with JavaScript.
+PacMen Excercise Repository. This excercise was part of a tasks for the MIT xPRO program: Web Development with JavaScript.
 
 ## Description
 Upon clicking the "Add PacMan" button, a new Pac Man will appear and the PacMens will move randomly around the page when you click "Start Game".
