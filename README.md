@@ -1,4 +1,4 @@
-<a href="https://github.com/YanisCorrea?tab=repositories><-- Back to my REPOSITORIES page</a>
+<a href="https://github.com/YanisCorrea?tab=repositories"><-- Back to my REPOSITORIES page</a>
 
 # PacmenExcercise
 ![image](https://user-images.githubusercontent.com/56746958/134919076-855153ba-5ec8-41ce-addc-0c3898bd565a.png)
